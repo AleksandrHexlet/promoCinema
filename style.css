@@ -1,0 +1,78 @@
+body {
+  background: #e5e5e5;
+}
+.main {
+}
+.main__title {
+  width: 365px;
+  height: 93px;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+  margin: 91px 951px 18px 124px;
+}
+.main__about {
+  display: flex;
+}
+.main__about_text {
+}
+.text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+  color: #000000;
+  margin: 0 164px 51px 124px;
+  width: 70%;
+}
+.operator {
+  margin: 20px 124px 170px 0px;
+}
+.main__schedule {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+}
+.director {
+  margin: 0px 132px 173px 124px;
+  width: 232px;
+  height: 203px;
+}
+.schedule__lessons {
+  display: flex;
+  flex-direction: column;
+}
+p {
+  margin: 0;
+}
+.schedule__lessons_title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+  width: 150px;
+  height: 39px;
+  margin: 0;
+  margin-right: 95px;
+  margin-bottom: 1px;
+
+  color: #000000;
+}
+.schedule__lessons_subtitle {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+  width: 150px;
+  height: 39px;
+
+  color: #000000;
+}
